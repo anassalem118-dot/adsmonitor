@@ -1,0 +1,9 @@
+# للوحة المتابعة (Streamlit Community Cloud)
+streamlit>=1.40
+requests>=2.32
+python-telegram-bot>=21.0
+pandas>=2.2
+psycopg2-binary>=2.9
+cryptography>=43.0
+bcrypt>=4.2
+tzdata
